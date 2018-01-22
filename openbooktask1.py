@@ -1,3 +1,4 @@
+
 fname = input("Enter file name that you need: ")
 word=input("Enter word to be searched:")
 m = 0
